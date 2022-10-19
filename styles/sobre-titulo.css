@@ -1,0 +1,7 @@
+.sobre__titulo {
+    font-family: 'Pacifico';
+    font-size:  45px;
+    font-weight: 400;
+    color: var(--vinho);
+    text-align: center;
+}

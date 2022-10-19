@@ -1,0 +1,10 @@
+.cabeçalho {
+    background-color: var(--branco);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo {
+    padding: 0 2em 0 2em;
+}

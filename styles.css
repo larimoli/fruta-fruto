@@ -1,0 +1,27 @@
+@import url(/styles/header.css);
+@import url(/styles/menu-item.css);
+@import url(/styles/menu-link.css);
+@import url(/styles/menu-lista.css);
+@import url(/styles/banner-imagem.css);
+@import url(/styles/banner-titulo.css);
+@import url(/styles/sobre.css);
+@import url(/styles/sobre-titulo.css);
+@import url(/styles/sobre-descricao.css);
+
+:root {
+    --background:    #E5E5E5;
+    --branco:        #FFFFFF;
+    --cinza:         #8C8888;
+    --cinza-claro:   #808080;
+    --preto:         #000000;
+    --vinho:         #8D0606;
+    --cinza-escuro:  #333333;
+    --footer:        #C4C4C4;
+}
+
+
+body {
+    background-color: var(--background);
+    font-family: 'Roboto';
+    font-weight: 300;
+}

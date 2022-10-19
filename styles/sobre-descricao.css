@@ -1,0 +1,6 @@
+.sobre__descricao {
+    color: var(--cinza);
+    font-size: 23px;
+    text-align: center;
+    padding: 1em;
+}
